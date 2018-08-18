@@ -6,20 +6,20 @@
 
 服务端：
 ![Image text]( 
-      netty-chatroom/image/server.png
+      https://github.com/chenfq1/netty-chatroom/blob/master/image/server.png
     )
 	
 客户端：
 ![Image text]( 
-      netty-chatroom/image/client1.png
+      https://github.com/chenfq1/netty-chatroom/blob/master/image/client1.png
     )
 
 ![Image text]( 
-      netty-chatroom/image/client2.png
+      https://github.com/chenfq1/netty-chatroom/blob/master/image/client2.png
     )
 	
 ![Image text]( 
-      netty-chatroom/image/client3.png
+      https://github.com/chenfq1/netty-chatroom/blob/master/image/client3.png
     )
 
 
